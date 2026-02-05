@@ -50,7 +50,6 @@ The dashboard highlights key sales patterns and helps identify growth opportunit
 
 This project demonstrates how business intelligence tools like Power BI can be used to transform raw sales data into meaningful insights for strategic decision-making.
 
+Images-
+<img width="1338" height="746" alt="Screenshot 2026-02-05 140643" src="https://github.com/user-attachments/assets/bdde3ea8-2590-40d9-9a7c-f1ab967d4c48" />
 
-isko short README version bana doon
-
-screenshots sectio
