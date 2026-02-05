@@ -1,0 +1,1016 @@
+Date,Region,Store,TV_Brand,Model,Units_Sold,Price_per_Unit,Revenue,Sales_Channel
+2025-01-01,North India,Amazon,Sony,Bravia-65,13,85741,1114633,Online
+2025-01-01,North India,Reliance,Sony,Bravia-65,37,86781,3210897,Offline
+2025-01-01,South India,Flipkart,OnePlus,U1S-65,56,34105,1909880,Online
+2025-01-01,South India,Amazon,Samsung,QLED-55,29,51338,1488802,Online
+2025-01-01,West India,Vijay Sales,Samsung,UHD-65,10,64213,642130,Online
+2025-01-01,South India,Amazon,Samsung,QLED-55,60,51619,3097140,Online
+2025-01-01,East India,Amazon,Sony,X90K-75,22,89920,1978240,Online
+2025-01-01,West India,Flipkart,LG,NanoCell-50,49,43665,2139585,Offline
+2025-01-01,West India,Amazon,Samsung,QLED-55,41,65622,2690502,Online
+2025-01-02,South India,Croma,OnePlus,Q1-55,21,32186,675906,Online
+2025-01-02,West India,Reliance,Samsung,QLED-55,14,55484,776776,Offline
+2025-01-02,East India,Vijay Sales,Samsung,NeoQLED-75,51,52507,2677857,Online
+2025-01-02,East India,Flipkart,Sony,Bravia-55,5,82806,414030,Offline
+2025-01-02,South India,Croma,LG,OLED-55,39,61243,2388477,Online
+2025-01-02,East India,Amazon,Sony,Bravia-65,20,55613,1112260,Online
+2025-01-02,South India,Flipkart,OnePlus,Y1-50,21,42671,896091,Online
+2025-01-02,East India,Flipkart,LG,OLED-65,38,56246,2137348,Offline
+2025-01-02,North India,Vijay Sales,OnePlus,Y1-50,42,26929,1131018,Online
+2025-01-02,North India,Reliance,LG,OLED-55,37,71812,2657044,Online
+2025-01-02,West India,Croma,Xiaomi,MiTV-55,17,25804,438668,Offline
+2025-01-02,West India,Reliance,Samsung,QLED-55,30,67236,2017080,Offline
+2025-01-03,West India,Croma,LG,OLED-65,20,46416,928320,Online
+2025-01-03,North India,Croma,Sony,Bravia-55,36,64008,2304288,Online
+2025-01-03,West India,Reliance,Xiaomi,MiTV-55,55,31412,1727660,Offline
+2025-01-03,South India,Croma,LG,OLED-55,8,43746,349968,Offline
+2025-01-03,South India,Reliance,OnePlus,Y1-50,59,32707,1929713,Offline
+2025-01-03,North India,Vijay Sales,Sony,X90K-75,43,55372,2380996,Offline
+2025-01-03,East India,Croma,LG,OLED-55,21,59660,1252860,Online
+2025-01-03,North India,Flipkart,OnePlus,Q1-55,11,33690,370590,Online
+2025-01-03,East India,Reliance,Sony,Bravia-55,23,78716,1810468,Online
+2025-01-03,East India,Reliance,Sony,Bravia-55,12,86256,1035072,Online
+2025-01-04,South India,Amazon,OnePlus,U1S-65,21,34066,715386,Online
+2025-01-04,North India,Amazon,Sony,X90K-75,21,78956,1658076,Online
+2025-01-04,North India,Croma,OnePlus,Y1-50,58,29176,1692208,Online
+2025-01-04,East India,Amazon,Samsung,UHD-65,18,61353,1104354,Offline
+2025-01-04,South India,Croma,Sony,Bravia-65,31,61754,1914374,Online
+2025-01-04,East India,Croma,Samsung,UHD-65,60,47537,2852220,Offline
+2025-01-04,East India,Croma,Sony,Bravia-65,47,76113,3577311,Offline
+2025-01-04,East India,Vijay Sales,Xiaomi,RedmiTV-50,58,34369,1993402,Online
+2025-01-04,East India,Reliance,Samsung,NeoQLED-75,32,67654,2164928,Online
+2025-01-04,West India,Vijay Sales,Sony,Bravia-55,7,50110,350770,Online
+2025-01-04,East India,Flipkart,Samsung,NeoQLED-75,26,65572,1704872,Offline
+2025-01-04,East India,Flipkart,LG,NanoCell-50,13,64847,843011,Offline
+2025-01-04,West India,Vijay Sales,Samsung,UHD-65,23,58774,1351802,Offline
+2025-01-05,West India,Croma,Samsung,UHD-65,37,66966,2477742,Online
+2025-01-05,South India,Croma,Samsung,QLED-55,20,76138,1522760,Online
+2025-01-05,West India,Flipkart,Xiaomi,MiTV-43,14,23585,330190,Offline
+2025-01-05,North India,Vijay Sales,Sony,Bravia-65,34,80450,2735300,Offline
+2025-01-05,West India,Vijay Sales,OnePlus,U1S-65,58,33493,1942594,Online
+2025-01-05,East India,Vijay Sales,Xiaomi,RedmiTV-50,20,31690,633800,Online
+2025-01-05,East India,Amazon,LG,NanoCell-50,10,55155,551550,Online
+2025-01-05,North India,Flipkart,Xiaomi,MiTV-55,39,23388,912132,Offline
+2025-01-05,North India,Vijay Sales,Xiaomi,MiTV-55,5,33982,169910,Online
+2025-01-05,West India,Croma,LG,OLED-65,36,62028,2233008,Online
+2025-01-05,West India,Croma,OnePlus,Q1-55,6,39044,234264,Online
+2025-01-06,South India,Reliance,LG,OLED-65,25,61420,1535500,Offline
+2025-01-06,West India,Amazon,Samsung,UHD-65,6,48413,290478,Online
+2025-01-06,North India,Croma,Sony,Bravia-65,44,65633,2887852,Online
+2025-01-06,West India,Amazon,LG,OLED-55,43,60384,2596512,Online
+2025-01-06,East India,Vijay Sales,Xiaomi,MiTV-55,50,21669,1083450,Online
+2025-01-06,North India,Amazon,OnePlus,U1S-65,47,36181,1700507,Online
+2025-01-06,West India,Flipkart,Samsung,UHD-65,28,75129,2103612,Offline
+2025-01-06,West India,Flipkart,Xiaomi,RedmiTV-50,42,33610,1411620,Offline
+2025-01-06,West India,Croma,Xiaomi,RedmiTV-50,44,28098,1236312,Online
+2025-01-06,West India,Croma,LG,OLED-65,26,58105,1510730,Online
+2025-01-06,North India,Croma,Xiaomi,MiTV-55,40,27342,1093680,Online
+2025-01-06,East India,Croma,Xiaomi,RedmiTV-50,20,27753,555060,Offline
+2025-01-06,West India,Vijay Sales,LG,OLED-65,49,60094,2944606,Online
+2025-01-06,South India,Amazon,Samsung,NeoQLED-75,39,57133,2228187,Offline
+2025-01-06,East India,Reliance,Sony,Bravia-55,19,61759,1173421,Online
+2025-01-07,North India,Reliance,OnePlus,U1S-65,49,25401,1244649,Offline
+2025-01-07,West India,Flipkart,Xiaomi,MiTV-55,16,21869,349904,Offline
+2025-01-07,West India,Reliance,OnePlus,Q1-55,48,43443,2085264,Offline
+2025-01-07,North India,Croma,Samsung,NeoQLED-75,53,72274,3830522,Offline
+2025-01-07,West India,Flipkart,LG,NanoCell-50,32,43947,1406304,Online
+2025-01-07,South India,Amazon,Samsung,QLED-55,20,56391,1127820,Offline
+2025-01-07,West India,Vijay Sales,Xiaomi,MiTV-55,7,31517,220619,Online
+2025-01-07,South India,Amazon,OnePlus,Q1-55,56,32366,1812496,Online
+2025-01-07,East India,Croma,Samsung,QLED-55,15,65159,977385,Offline
+2025-01-07,East India,Flipkart,LG,NanoCell-50,39,45271,1765569,Offline
+2025-01-07,East India,Vijay Sales,LG,OLED-55,10,41359,413590,Online
+2025-01-07,South India,Flipkart,OnePlus,Q1-55,33,41112,1356696,Online
+2025-01-08,East India,Flipkart,LG,OLED-65,47,61614,2895858,Offline
+2025-01-08,West India,Vijay Sales,Samsung,UHD-65,10,65612,656120,Online
+2025-01-08,West India,Flipkart,Samsung,QLED-55,38,68709,2610942,Online
+2025-01-08,East India,Vijay Sales,Sony,Bravia-55,33,57957,1912581,Online
+2025-01-08,South India,Amazon,OnePlus,Y1-50,40,28717,1148680,Offline
+2025-01-08,North India,Croma,Xiaomi,RedmiTV-50,23,33676,774548,Offline
+2025-01-08,South India,Flipkart,OnePlus,Y1-50,29,29473,854717,Online
+2025-01-08,East India,Flipkart,LG,NanoCell-50,22,59566,1310452,Offline
+2025-01-08,South India,Flipkart,OnePlus,U1S-65,27,35544,959688,Online
+2025-01-08,South India,Vijay Sales,Xiaomi,MiTV-43,59,32201,1899859,Offline
+2025-01-08,West India,Croma,Xiaomi,MiTV-43,13,34249,445237,Offline
+2025-01-08,North India,Vijay Sales,Xiaomi,MiTV-43,51,21225,1082475,Offline
+2025-01-08,East India,Vijay Sales,Xiaomi,RedmiTV-50,10,25188,251880,Online
+2025-01-08,North India,Croma,LG,OLED-55,52,46451,2415452,Offline
+2025-01-08,South India,Amazon,Samsung,QLED-55,25,48677,1216925,Online
+2025-01-09,West India,Vijay Sales,Sony,Bravia-65,16,89943,1439088,Offline
+2025-01-09,South India,Croma,Xiaomi,RedmiTV-50,21,34727,729267,Offline
+2025-01-09,South India,Reliance,Xiaomi,MiTV-55,42,27484,1154328,Online
+2025-01-09,West India,Flipkart,Samsung,QLED-55,29,68524,1987196,Online
+2025-01-09,West India,Amazon,Samsung,NeoQLED-75,60,48214,2892840,Online
+2025-01-09,East India,Croma,Sony,X90K-75,21,56367,1183707,Online
+2025-01-09,East India,Croma,Samsung,UHD-65,25,72230,1805750,Offline
+2025-01-09,East India,Croma,LG,OLED-65,56,47547,2662632,Online
+2025-01-09,South India,Flipkart,OnePlus,U1S-65,10,29049,290490,Offline
+2025-01-09,East India,Amazon,OnePlus,U1S-65,57,25820,1471740,Offline
+2025-01-09,South India,Reliance,Xiaomi,RedmiTV-50,24,20742,497808,Offline
+2025-01-10,North India,Reliance,Sony,X90K-75,13,79729,1036477,Offline
+2025-01-10,South India,Flipkart,Samsung,UHD-65,44,71746,3156824,Online
+2025-01-10,West India,Flipkart,Sony,Bravia-55,11,85682,942502,Offline
+2025-01-10,South India,Reliance,Xiaomi,MiTV-43,47,20828,978916,Online
+2025-01-10,South India,Vijay Sales,Sony,Bravia-65,58,88429,5128882,Offline
+2025-01-10,South India,Vijay Sales,Samsung,UHD-65,59,54482,3214438,Online
+2025-01-10,North India,Croma,Samsung,UHD-65,55,60593,3332615,Offline
+2025-01-10,North India,Croma,Xiaomi,RedmiTV-50,12,32747,392964,Online
+2025-01-10,West India,Vijay Sales,Sony,X90K-75,7,69767,488369,Online
+2025-01-10,West India,Flipkart,Xiaomi,RedmiTV-50,11,34733,382063,Offline
+2025-01-10,South India,Reliance,Sony,Bravia-55,44,74962,3298328,Offline
+2025-01-10,North India,Reliance,OnePlus,Q1-55,60,32487,1949220,Offline
+2025-01-10,East India,Flipkart,Xiaomi,MiTV-55,51,25120,1281120,Offline
+2025-01-10,South India,Flipkart,Samsung,QLED-55,58,50594,2934452,Online
+2025-01-10,North India,Vijay Sales,OnePlus,Q1-55,26,38858,1010308,Online
+2025-01-11,East India,Amazon,Samsung,NeoQLED-75,37,58942,2180854,Offline
+2025-01-11,East India,Reliance,LG,NanoCell-50,19,41720,792680,Online
+2025-01-11,South India,Amazon,LG,OLED-65,27,49388,1333476,Online
+2025-01-11,South India,Reliance,Samsung,NeoQLED-75,38,59098,2245724,Online
+2025-01-11,East India,Amazon,LG,NanoCell-50,43,50196,2158428,Online
+2025-01-11,East India,Flipkart,Xiaomi,MiTV-55,43,23531,1011833,Online
+2025-01-11,East India,Flipkart,Samsung,UHD-65,48,76891,3690768,Offline
+2025-01-11,North India,Reliance,Sony,Bravia-55,18,66745,1201410,Online
+2025-01-11,West India,Flipkart,Sony,Bravia-65,29,65080,1887320,Online
+2025-01-11,West India,Reliance,Xiaomi,MiTV-43,34,29394,999396,Offline
+2025-01-11,East India,Reliance,Xiaomi,MiTV-43,25,21443,536075,Online
+2025-01-11,South India,Flipkart,OnePlus,U1S-65,38,36125,1372750,Online
+2025-01-12,South India,Reliance,OnePlus,Q1-55,12,36448,437376,Offline
+2025-01-12,South India,Croma,Samsung,QLED-55,21,57928,1216488,Online
+2025-01-12,West India,Flipkart,OnePlus,Q1-55,33,27237,898821,Offline
+2025-01-12,West India,Amazon,LG,NanoCell-50,8,44862,358896,Offline
+2025-01-12,North India,Reliance,LG,OLED-65,9,73231,659079,Online
+2025-01-12,West India,Vijay Sales,Sony,Bravia-55,43,82857,3562851,Online
+2025-01-12,East India,Reliance,OnePlus,Q1-55,16,42172,674752,Online
+2025-01-12,East India,Amazon,LG,OLED-65,31,43431,1346361,Online
+2025-01-12,East India,Reliance,OnePlus,Q1-55,29,27670,802430,Online
+2025-01-12,East India,Amazon,Xiaomi,MiTV-43,43,30542,1313306,Online
+2025-01-12,North India,Flipkart,OnePlus,U1S-65,6,36197,217182,Offline
+2025-01-12,South India,Croma,Sony,Bravia-65,9,56628,509652,Online
+2025-01-12,East India,Vijay Sales,Sony,X90K-75,29,60633,1758357,Offline
+2025-01-13,West India,Amazon,Sony,Bravia-55,44,79420,3494480,Offline
+2025-01-13,West India,Croma,LG,NanoCell-50,41,58466,2397106,Offline
+2025-01-13,South India,Croma,OnePlus,Y1-50,60,37163,2229780,Online
+2025-01-13,North India,Amazon,Samsung,QLED-55,22,74446,1637812,Online
+2025-01-13,South India,Flipkart,LG,OLED-55,31,72899,2259869,Offline
+2025-01-13,North India,Amazon,Sony,Bravia-65,25,71973,1799325,Offline
+2025-01-13,West India,Croma,Xiaomi,MiTV-55,44,24193,1064492,Online
+2025-01-13,West India,Reliance,LG,OLED-55,24,55626,1335024,Online
+2025-01-14,West India,Vijay Sales,OnePlus,Y1-50,45,29704,1336680,Offline
+2025-01-14,West India,Reliance,OnePlus,U1S-65,20,36816,736320,Online
+2025-01-14,North India,Flipkart,Xiaomi,MiTV-43,45,32244,1450980,Offline
+2025-01-14,North India,Amazon,Sony,X90K-75,47,88135,4142345,Offline
+2025-01-14,East India,Croma,Xiaomi,RedmiTV-50,35,31731,1110585,Online
+2025-01-14,East India,Croma,Samsung,QLED-55,7,65682,459774,Offline
+2025-01-14,East India,Reliance,Sony,Bravia-55,27,71753,1937331,Offline
+2025-01-14,West India,Flipkart,Xiaomi,MiTV-55,16,33062,528992,Offline
+2025-01-14,North India,Flipkart,Samsung,UHD-65,43,56826,2443518,Online
+2025-01-15,East India,Amazon,Xiaomi,RedmiTV-50,50,25759,1287950,Online
+2025-01-15,East India,Vijay Sales,Xiaomi,MiTV-55,45,25952,1167840,Online
+2025-01-15,North India,Croma,OnePlus,Q1-55,55,32733,1800315,Offline
+2025-01-15,East India,Flipkart,OnePlus,Y1-50,43,39547,1700521,Online
+2025-01-15,South India,Vijay Sales,LG,OLED-65,25,47434,1185850,Offline
+2025-01-15,West India,Vijay Sales,Samsung,UHD-65,54,62058,3351132,Offline
+2025-01-15,South India,Reliance,Sony,Bravia-65,33,79170,2612610,Offline
+2025-01-15,North India,Vijay Sales,OnePlus,U1S-65,24,32347,776328,Online
+2025-01-15,South India,Croma,Sony,Bravia-55,6,86308,517848,Online
+2025-01-15,North India,Reliance,LG,OLED-65,50,66921,3346050,Online
+2025-01-15,South India,Amazon,Samsung,UHD-65,34,78905,2682770,Online
+2025-01-15,South India,Flipkart,OnePlus,Y1-50,58,30395,1762910,Online
+2025-01-15,East India,Croma,LG,NanoCell-50,23,52864,1215872,Offline
+2025-01-16,East India,Vijay Sales,OnePlus,Y1-50,37,44829,1658673,Offline
+2025-01-16,North India,Reliance,Samsung,QLED-55,46,62344,2867824,Offline
+2025-01-16,East India,Amazon,Xiaomi,MiTV-43,56,21195,1186920,Online
+2025-01-16,West India,Flipkart,Xiaomi,MiTV-55,18,25121,452178,Offline
+2025-01-16,West India,Croma,LG,NanoCell-50,40,55842,2233680,Offline
+2025-01-16,West India,Croma,Sony,Bravia-65,8,75175,601400,Offline
+2025-01-16,East India,Croma,Sony,Bravia-55,37,82686,3059382,Online
+2025-01-16,West India,Vijay Sales,Xiaomi,MiTV-43,18,24609,442962,Offline
+2025-01-16,East India,Vijay Sales,Samsung,QLED-55,32,53777,1720864,Offline
+2025-01-16,North India,Flipkart,Samsung,NeoQLED-75,40,57756,2310240,Offline
+2025-01-17,North India,Croma,Samsung,UHD-65,28,67222,1882216,Online
+2025-01-17,West India,Vijay Sales,Samsung,QLED-55,7,53980,377860,Online
+2025-01-17,South India,Amazon,OnePlus,U1S-65,15,41702,625530,Offline
+2025-01-17,East India,Flipkart,Samsung,UHD-65,26,52183,1356758,Offline
+2025-01-17,East India,Vijay Sales,OnePlus,Y1-50,51,42178,2151078,Offline
+2025-01-17,South India,Croma,Samsung,NeoQLED-75,49,52202,2557898,Offline
+2025-01-17,South India,Flipkart,Sony,Bravia-55,37,54081,2000997,Offline
+2025-01-17,West India,Vijay Sales,Xiaomi,MiTV-55,16,28950,463200,Offline
+2025-01-17,West India,Croma,Sony,Bravia-55,40,64736,2589440,Online
+2025-01-17,West India,Amazon,Xiaomi,MiTV-55,40,29395,1175800,Offline
+2025-01-17,West India,Amazon,Sony,Bravia-55,7,55179,386253,Offline
+2025-01-17,South India,Croma,OnePlus,U1S-65,40,44229,1769160,Online
+2025-01-18,North India,Vijay Sales,Sony,X90K-75,19,56566,1074754,Online
+2025-01-18,South India,Reliance,OnePlus,Y1-50,31,34412,1066772,Offline
+2025-01-18,East India,Reliance,Samsung,NeoQLED-75,41,60218,2468938,Offline
+2025-01-18,South India,Reliance,Xiaomi,MiTV-55,16,24888,398208,Online
+2025-01-18,East India,Amazon,Xiaomi,RedmiTV-50,39,33943,1323777,Offline
+2025-01-18,East India,Croma,Samsung,UHD-65,15,75075,1126125,Offline
+2025-01-18,South India,Croma,OnePlus,Q1-55,30,38134,1144020,Online
+2025-01-18,South India,Croma,Xiaomi,MiTV-55,20,23858,477160,Offline
+2025-01-18,East India,Amazon,OnePlus,Q1-55,41,32743,1342463,Online
+2025-01-18,North India,Flipkart,LG,OLED-55,30,47694,1430820,Offline
+2025-01-18,South India,Croma,Sony,Bravia-55,14,89697,1255758,Offline
+2025-01-19,South India,Vijay Sales,Samsung,NeoQLED-75,33,79614,2627262,Online
+2025-01-19,South India,Vijay Sales,OnePlus,Y1-50,15,31730,475950,Offline
+2025-01-19,North India,Vijay Sales,Xiaomi,MiTV-43,34,27484,934456,Online
+2025-01-19,West India,Amazon,Samsung,UHD-65,21,45197,949137,Offline
+2025-01-19,North India,Vijay Sales,Samsung,QLED-55,35,47079,1647765,Offline
+2025-01-19,East India,Flipkart,Xiaomi,MiTV-55,29,30707,890503,Online
+2025-01-19,South India,Vijay Sales,Xiaomi,RedmiTV-50,13,24888,323544,Offline
+2025-01-19,West India,Croma,Sony,Bravia-55,27,68064,1837728,Online
+2025-01-19,West India,Vijay Sales,Samsung,QLED-55,18,49409,889362,Online
+2025-01-19,South India,Reliance,Xiaomi,MiTV-55,19,28255,536845,Online
+2025-01-19,East India,Vijay Sales,OnePlus,Q1-55,57,29694,1692558,Online
+2025-01-20,East India,Amazon,Samsung,NeoQLED-75,42,56477,2372034,Offline
+2025-01-20,East India,Flipkart,Xiaomi,MiTV-43,24,23948,574752,Offline
+2025-01-20,South India,Flipkart,Samsung,NeoQLED-75,31,72296,2241176,Online
+2025-01-20,East India,Croma,LG,NanoCell-50,10,46059,460590,Online
+2025-01-20,East India,Flipkart,OnePlus,Q1-55,7,31844,222908,Offline
+2025-01-20,East India,Reliance,Sony,Bravia-65,52,81386,4232072,Online
+2025-01-20,West India,Croma,OnePlus,U1S-65,54,36772,1985688,Offline
+2025-01-20,East India,Amazon,OnePlus,U1S-65,34,31656,1076304,Offline
+2025-01-20,East India,Flipkart,Samsung,NeoQLED-75,60,59501,3570060,Offline
+2025-01-20,East India,Croma,Sony,Bravia-55,19,87341,1659479,Offline
+2025-01-20,East India,Flipkart,Xiaomi,MiTV-55,15,31801,477015,Offline
+2025-01-20,South India,Vijay Sales,Samsung,NeoQLED-75,7,49871,349097,Online
+2025-01-20,North India,Croma,Samsung,QLED-55,37,74885,2770745,Offline
+2025-01-20,North India,Reliance,OnePlus,Q1-55,31,34002,1054062,Offline
+2025-01-21,West India,Croma,Samsung,QLED-55,38,54758,2080804,Offline
+2025-01-21,East India,Amazon,Xiaomi,MiTV-43,28,31423,879844,Offline
+2025-01-21,North India,Reliance,Samsung,UHD-65,29,69718,2021822,Online
+2025-01-21,North India,Flipkart,Xiaomi,RedmiTV-50,55,34660,1906300,Online
+2025-01-21,South India,Croma,OnePlus,U1S-65,22,42794,941468,Online
+2025-01-21,South India,Amazon,Samsung,QLED-55,42,54449,2286858,Online
+2025-01-21,West India,Vijay Sales,LG,OLED-65,53,72819,3859407,Online
+2025-01-21,North India,Flipkart,Sony,Bravia-65,26,71389,1856114,Offline
+2025-01-22,South India,Amazon,OnePlus,U1S-65,32,34678,1109696,Online
+2025-01-22,North India,Reliance,LG,OLED-55,29,60753,1761837,Online
+2025-01-22,North India,Amazon,Xiaomi,MiTV-55,53,21430,1135790,Offline
+2025-01-22,West India,Vijay Sales,OnePlus,Q1-55,31,43160,1337960,Online
+2025-01-22,East India,Flipkart,Samsung,UHD-65,31,70414,2182834,Online
+2025-01-22,West India,Croma,Sony,Bravia-55,24,82317,1975608,Offline
+2025-01-22,East India,Flipkart,LG,OLED-65,55,56495,3107225,Online
+2025-01-22,West India,Reliance,Sony,Bravia-55,5,71772,358860,Offline
+2025-01-22,East India,Flipkart,OnePlus,Y1-50,24,35295,847080,Online
+2025-01-22,West India,Amazon,LG,NanoCell-50,49,55887,2738463,Offline
+2025-01-22,West India,Amazon,Samsung,NeoQLED-75,17,56791,965447,Online
+2025-01-22,West India,Amazon,Samsung,UHD-65,48,77722,3730656,Online
+2025-01-22,West India,Flipkart,Samsung,UHD-65,43,76407,3285501,Offline
+2025-01-22,North India,Amazon,OnePlus,Q1-55,45,36632,1648440,Online
+2025-01-22,North India,Vijay Sales,Xiaomi,MiTV-55,55,21615,1188825,Online
+2025-01-23,West India,Amazon,Xiaomi,MiTV-55,54,20402,1101708,Online
+2025-01-23,East India,Flipkart,Samsung,QLED-55,58,54284,3148472,Online
+2025-01-23,West India,Amazon,Xiaomi,MiTV-43,33,24919,822327,Online
+2025-01-23,North India,Amazon,Samsung,NeoQLED-75,56,55771,3123176,Online
+2025-01-23,East India,Vijay Sales,Xiaomi,MiTV-55,19,30493,579367,Offline
+2025-01-23,North India,Vijay Sales,Sony,Bravia-55,42,75482,3170244,Online
+2025-01-23,East India,Reliance,OnePlus,Y1-50,56,39993,2239608,Online
+2025-01-23,East India,Flipkart,OnePlus,Q1-55,25,36533,913325,Offline
+2025-01-23,South India,Amazon,OnePlus,Q1-55,10,35006,350060,Online
+2025-01-23,South India,Amazon,Sony,X90K-75,29,89087,2583523,Offline
+2025-01-23,South India,Flipkart,OnePlus,Q1-55,46,34464,1585344,Online
+2025-01-24,East India,Flipkart,OnePlus,Y1-50,60,31393,1883580,Offline
+2025-01-24,West India,Flipkart,Xiaomi,MiTV-55,50,21354,1067700,Online
+2025-01-24,South India,Amazon,Samsung,UHD-65,19,63918,1214442,Online
+2025-01-24,North India,Amazon,OnePlus,U1S-65,39,28355,1105845,Online
+2025-01-24,East India,Reliance,Xiaomi,MiTV-55,27,32707,883089,Online
+2025-01-24,East India,Vijay Sales,Xiaomi,MiTV-43,44,33196,1460624,Offline
+2025-01-24,East India,Vijay Sales,OnePlus,Y1-50,25,41856,1046400,Online
+2025-01-24,South India,Flipkart,Samsung,UHD-65,60,53315,3198900,Online
+2025-01-24,West India,Flipkart,Sony,X90K-75,45,77146,3471570,Online
+2025-01-24,West India,Vijay Sales,LG,NanoCell-50,28,61449,1720572,Online
+2025-01-25,East India,Reliance,OnePlus,U1S-65,18,35579,640422,Offline
+2025-01-25,East India,Vijay Sales,OnePlus,Y1-50,41,28262,1158742,Offline
+2025-01-25,North India,Reliance,Sony,Bravia-55,34,78036,2653224,Offline
+2025-01-25,South India,Amazon,Samsung,NeoQLED-75,28,61409,1719452,Online
+2025-01-25,West India,Amazon,Sony,Bravia-55,46,56237,2586902,Online
+2025-01-25,South India,Vijay Sales,Sony,X90K-75,48,50608,2429184,Online
+2025-01-25,West India,Croma,Xiaomi,MiTV-43,19,21690,412110,Offline
+2025-01-25,East India,Croma,Xiaomi,MiTV-43,46,29228,1344488,Online
+2025-01-25,West India,Amazon,Sony,X90K-75,52,76981,4003012,Online
+2025-01-25,North India,Croma,Samsung,NeoQLED-75,51,70167,3578517,Online
+2025-01-25,East India,Reliance,Sony,X90K-75,43,51757,2225551,Online
+2025-01-25,West India,Amazon,Samsung,QLED-55,36,70289,2530404,Online
+2025-01-25,North India,Amazon,LG,OLED-55,29,51322,1488338,Online
+2025-01-25,North India,Vijay Sales,Samsung,QLED-55,21,59138,1241898,Offline
+2025-01-25,West India,Flipkart,Xiaomi,MiTV-43,45,25077,1128465,Online
+2025-01-26,East India,Flipkart,OnePlus,Q1-55,53,32819,1739407,Online
+2025-01-26,South India,Reliance,Xiaomi,MiTV-43,34,21956,746504,Online
+2025-01-26,North India,Croma,Xiaomi,MiTV-55,38,26092,991496,Offline
+2025-01-26,North India,Reliance,LG,OLED-65,22,57232,1259104,Online
+2025-01-26,West India,Flipkart,OnePlus,U1S-65,8,30154,241232,Offline
+2025-01-26,North India,Vijay Sales,Samsung,QLED-55,52,78346,4073992,Online
+2025-01-26,North India,Flipkart,LG,OLED-65,14,67483,944762,Online
+2025-01-26,West India,Amazon,LG,OLED-55,41,72901,2988941,Online
+2025-01-26,South India,Vijay Sales,Samsung,UHD-65,9,75480,679320,Offline
+2025-01-26,North India,Amazon,Sony,Bravia-55,41,65897,2701777,Offline
+2025-01-27,South India,Croma,Samsung,UHD-65,6,60269,361614,Offline
+2025-01-27,North India,Flipkart,LG,OLED-55,18,67513,1215234,Online
+2025-01-27,East India,Reliance,Samsung,QLED-55,59,79062,4664658,Online
+2025-01-27,South India,Flipkart,Samsung,NeoQLED-75,41,49081,2012321,Offline
+2025-01-27,East India,Flipkart,LG,OLED-65,33,44894,1481502,Online
+2025-01-27,South India,Reliance,Sony,Bravia-55,34,76641,2605794,Online
+2025-01-27,West India,Amazon,Xiaomi,MiTV-55,59,33231,1960629,Online
+2025-01-27,South India,Amazon,Sony,Bravia-65,50,73313,3665650,Offline
+2025-01-27,East India,Croma,Samsung,UHD-65,59,74635,4403465,Online
+2025-01-27,South India,Reliance,Samsung,QLED-55,58,59567,3454886,Offline
+2025-01-27,North India,Vijay Sales,OnePlus,U1S-65,57,39530,2253210,Online
+2025-01-28,East India,Reliance,Samsung,UHD-65,8,56009,448072,Offline
+2025-01-28,North India,Flipkart,Xiaomi,MiTV-43,27,24585,663795,Online
+2025-01-28,North India,Vijay Sales,OnePlus,Q1-55,20,43044,860880,Offline
+2025-01-28,North India,Reliance,LG,OLED-65,13,74459,967967,Online
+2025-01-28,West India,Amazon,Xiaomi,RedmiTV-50,55,25269,1389795,Offline
+2025-01-28,South India,Reliance,LG,NanoCell-50,19,43839,832941,Offline
+2025-01-28,South India,Croma,Samsung,QLED-55,47,60804,2857788,Online
+2025-01-28,West India,Amazon,Sony,Bravia-65,20,73513,1470260,Online
+2025-01-28,South India,Flipkart,OnePlus,U1S-65,16,32622,521952,Online
+2025-01-29,West India,Reliance,LG,NanoCell-50,17,51630,877710,Online
+2025-01-29,North India,Croma,OnePlus,Q1-55,14,37241,521374,Offline
+2025-01-29,North India,Amazon,LG,OLED-65,13,71929,935077,Online
+2025-01-29,East India,Croma,OnePlus,Y1-50,29,25058,726682,Offline
+2025-01-29,North India,Croma,OnePlus,U1S-65,56,29608,1658048,Offline
+2025-01-29,North India,Croma,LG,OLED-65,15,69270,1039050,Online
+2025-01-29,South India,Reliance,LG,OLED-65,55,43155,2373525,Offline
+2025-01-29,South India,Flipkart,Xiaomi,MiTV-55,27,32922,888894,Online
+2025-01-30,West India,Reliance,Samsung,UHD-65,6,65887,395322,Online
+2025-01-30,West India,Croma,Samsung,NeoQLED-75,10,67147,671470,Offline
+2025-01-30,South India,Vijay Sales,Xiaomi,MiTV-43,8,23112,184896,Offline
+2025-01-30,East India,Amazon,Sony,Bravia-65,8,87471,699768,Offline
+2025-01-30,North India,Flipkart,Samsung,UHD-65,57,76478,4359246,Online
+2025-01-30,East India,Reliance,Xiaomi,MiTV-43,24,34661,831864,Online
+2025-01-30,West India,Croma,LG,OLED-65,28,42924,1201872,Offline
+2025-01-30,East India,Croma,LG,NanoCell-50,8,45616,364928,Offline
+2025-01-30,South India,Vijay Sales,Samsung,UHD-65,57,79247,4517079,Offline
+2025-01-30,East India,Reliance,Xiaomi,RedmiTV-50,7,33114,231798,Online
+2025-01-31,West India,Croma,Sony,Bravia-65,56,58269,3263064,Offline
+2025-01-31,South India,Croma,OnePlus,U1S-65,25,38020,950500,Offline
+2025-01-31,East India,Vijay Sales,Xiaomi,MiTV-43,55,26790,1473450,Online
+2025-01-31,North India,Reliance,OnePlus,Y1-50,55,38464,2115520,Offline
+2025-01-31,West India,Flipkart,OnePlus,Q1-55,35,29713,1039955,Offline
+2025-01-31,North India,Flipkart,LG,NanoCell-50,20,57601,1152020,Online
+2025-01-31,East India,Amazon,LG,OLED-65,58,54939,3186462,Offline
+2025-01-31,East India,Amazon,Xiaomi,RedmiTV-50,46,23463,1079298,Offline
+2025-01-31,East India,Reliance,OnePlus,Y1-50,9,42179,379611,Online
+2025-02-01,South India,Croma,Samsung,QLED-55,7,74913,524391,Offline
+2025-02-01,East India,Flipkart,OnePlus,U1S-65,45,41016,1845720,Offline
+2025-02-01,South India,Flipkart,OnePlus,Q1-55,27,27961,754947,Offline
+2025-02-01,North India,Flipkart,Samsung,QLED-55,59,59045,3483655,Offline
+2025-02-01,West India,Vijay Sales,Samsung,NeoQLED-75,5,76070,380350,Online
+2025-02-01,East India,Vijay Sales,LG,NanoCell-50,50,64672,3233600,Offline
+2025-02-01,East India,Croma,Xiaomi,MiTV-55,48,20120,965760,Offline
+2025-02-01,East India,Amazon,Samsung,UHD-65,9,67038,603342,Offline
+2025-02-01,East India,Croma,Sony,X90K-75,53,53720,2847160,Online
+2025-02-01,North India,Flipkart,LG,OLED-65,31,42314,1311734,Online
+2025-02-02,South India,Vijay Sales,Xiaomi,RedmiTV-50,27,33773,911871,Online
+2025-02-02,East India,Reliance,Xiaomi,MiTV-43,52,31136,1619072,Online
+2025-02-02,South India,Amazon,Sony,X90K-75,60,77556,4653360,Offline
+2025-02-02,West India,Reliance,Xiaomi,MiTV-43,60,28199,1691940,Offline
+2025-02-02,East India,Flipkart,Samsung,QLED-55,13,58126,755638,Online
+2025-02-02,East India,Croma,Samsung,UHD-65,26,56588,1471288,Offline
+2025-02-02,South India,Croma,OnePlus,Y1-50,36,39070,1406520,Offline
+2025-02-02,West India,Flipkart,Xiaomi,MiTV-43,7,20230,141610,Online
+2025-02-02,North India,Reliance,Sony,Bravia-65,49,70453,3452197,Offline
+2025-02-02,South India,Reliance,Samsung,UHD-65,23,74879,1722217,Online
+2025-02-02,East India,Flipkart,LG,OLED-55,15,54969,824535,Online
+2025-02-02,North India,Vijay Sales,OnePlus,Y1-50,12,33381,400572,Online
+2025-02-02,North India,Reliance,Samsung,QLED-55,49,52588,2576812,Offline
+2025-02-03,South India,Croma,Samsung,UHD-65,31,51617,1600127,Online
+2025-02-03,West India,Reliance,OnePlus,Q1-55,44,28482,1253208,Offline
+2025-02-03,South India,Vijay Sales,Sony,Bravia-55,58,63216,3666528,Offline
+2025-02-03,South India,Reliance,OnePlus,U1S-65,18,25417,457506,Online
+2025-02-03,North India,Vijay Sales,Xiaomi,MiTV-43,10,34823,348230,Online
+2025-02-03,West India,Amazon,LG,OLED-65,8,42585,340680,Offline
+2025-02-03,East India,Flipkart,Samsung,QLED-55,59,48007,2832413,Offline
+2025-02-03,East India,Flipkart,OnePlus,U1S-65,51,28730,1465230,Offline
+2025-02-03,West India,Flipkart,LG,OLED-65,49,50930,2495570,Online
+2025-02-03,South India,Reliance,Xiaomi,RedmiTV-50,35,32765,1146775,Online
+2025-02-03,South India,Flipkart,Xiaomi,MiTV-43,31,24286,752866,Online
+2025-02-03,South India,Amazon,OnePlus,Q1-55,49,36329,1780121,Offline
+2025-02-03,South India,Vijay Sales,OnePlus,Y1-50,5,41247,206235,Online
+2025-02-03,North India,Flipkart,LG,OLED-55,26,73222,1903772,Offline
+2025-02-03,West India,Croma,Samsung,UHD-65,33,74366,2454078,Online
+2025-02-04,North India,Reliance,Xiaomi,MiTV-55,7,34583,242081,Online
+2025-02-04,West India,Amazon,LG,OLED-55,57,61756,3520092,Offline
+2025-02-04,East India,Flipkart,Samsung,QLED-55,53,59532,3155196,Offline
+2025-02-04,North India,Reliance,Sony,Bravia-55,13,57009,741117,Online
+2025-02-04,North India,Flipkart,Sony,Bravia-55,57,72146,4112322,Online
+2025-02-04,North India,Flipkart,Xiaomi,RedmiTV-50,42,20071,842982,Online
+2025-02-04,West India,Vijay Sales,Xiaomi,RedmiTV-50,54,31968,1726272,Online
+2025-02-04,West India,Vijay Sales,OnePlus,U1S-65,37,38037,1407369,Offline
+2025-02-04,East India,Flipkart,Sony,Bravia-65,31,69589,2157259,Online
+2025-02-04,South India,Croma,OnePlus,Q1-55,23,42776,983848,Offline
+2025-02-04,North India,Amazon,OnePlus,U1S-65,42,38840,1631280,Online
+2025-02-04,North India,Reliance,Xiaomi,MiTV-43,8,32291,258328,Offline
+2025-02-04,East India,Croma,Samsung,NeoQLED-75,55,64342,3538810,Online
+2025-02-04,South India,Vijay Sales,Xiaomi,MiTV-43,37,26349,974913,Offline
+2025-02-04,North India,Reliance,LG,OLED-55,44,64100,2820400,Online
+2025-02-05,East India,Flipkart,Sony,X90K-75,9,61389,552501,Online
+2025-02-05,West India,Amazon,OnePlus,U1S-65,13,35831,465803,Offline
+2025-02-05,South India,Reliance,Sony,Bravia-55,43,69736,2998648,Offline
+2025-02-05,North India,Amazon,OnePlus,Y1-50,16,38629,618064,Offline
+2025-02-05,North India,Amazon,Sony,Bravia-65,47,71696,3369712,Offline
+2025-02-05,North India,Reliance,LG,OLED-65,20,61032,1220640,Offline
+2025-02-05,East India,Vijay Sales,LG,OLED-55,38,73340,2786920,Online
+2025-02-05,East India,Croma,LG,NanoCell-50,10,74944,749440,Online
+2025-02-05,South India,Flipkart,Samsung,QLED-55,39,73523,2867397,Offline
+2025-02-05,North India,Reliance,Samsung,QLED-55,16,61509,984144,Offline
+2025-02-05,West India,Flipkart,Xiaomi,RedmiTV-50,30,26381,791430,Online
+2025-02-06,North India,Reliance,LG,NanoCell-50,11,45669,502359,Offline
+2025-02-06,West India,Reliance,Xiaomi,MiTV-43,39,33054,1289106,Offline
+2025-02-06,South India,Amazon,LG,OLED-55,40,42737,1709480,Offline
+2025-02-06,North India,Amazon,Sony,X90K-75,52,63876,3321552,Online
+2025-02-06,South India,Croma,Sony,X90K-75,58,62735,3638630,Online
+2025-02-06,West India,Vijay Sales,Samsung,UHD-65,47,49414,2322458,Offline
+2025-02-06,East India,Amazon,Sony,X90K-75,46,56556,2601576,Online
+2025-02-06,East India,Flipkart,Xiaomi,MiTV-55,44,29266,1287704,Offline
+2025-02-06,East India,Flipkart,Sony,Bravia-65,25,64517,1612925,Online
+2025-02-07,West India,Flipkart,Xiaomi,MiTV-55,54,22879,1235466,Online
+2025-02-07,East India,Croma,OnePlus,Y1-50,21,41619,873999,Online
+2025-02-07,West India,Vijay Sales,Sony,Bravia-65,40,85616,3424640,Offline
+2025-02-07,West India,Croma,OnePlus,Q1-55,59,41725,2461775,Online
+2025-02-07,West India,Amazon,OnePlus,Y1-50,47,39621,1862187,Online
+2025-02-07,South India,Vijay Sales,OnePlus,Q1-55,60,32170,1930200,Offline
+2025-02-07,South India,Reliance,LG,OLED-65,19,73940,1404860,Offline
+2025-02-07,West India,Flipkart,Samsung,QLED-55,46,66238,3046948,Offline
+2025-02-07,South India,Flipkart,Xiaomi,MiTV-55,42,26165,1098930,Offline
+2025-02-07,East India,Amazon,Xiaomi,MiTV-55,43,27207,1169901,Online
+2025-02-07,North India,Vijay Sales,LG,OLED-55,14,63738,892332,Online
+2025-02-07,West India,Amazon,Samsung,UHD-65,48,76379,3666192,Offline
+2025-02-07,North India,Croma,Samsung,QLED-55,41,55559,2277919,Online
+2025-02-08,South India,Amazon,Sony,X90K-75,30,68576,2057280,Offline
+2025-02-08,West India,Croma,Sony,Bravia-55,43,88184,3791912,Offline
+2025-02-08,South India,Amazon,Xiaomi,RedmiTV-50,42,26315,1105230,Online
+2025-02-08,North India,Croma,OnePlus,Q1-55,48,40593,1948464,Online
+2025-02-08,North India,Reliance,Xiaomi,RedmiTV-50,13,26892,349596,Online
+2025-02-08,West India,Croma,Xiaomi,MiTV-55,27,24170,652590,Online
+2025-02-08,North India,Amazon,OnePlus,Q1-55,31,25233,782223,Online
+2025-02-08,North India,Flipkart,Sony,X90K-75,56,76794,4300464,Offline
+2025-02-09,East India,Vijay Sales,Xiaomi,RedmiTV-50,28,26770,749560,Offline
+2025-02-09,South India,Amazon,OnePlus,Q1-55,35,38045,1331575,Online
+2025-02-09,North India,Croma,Xiaomi,RedmiTV-50,15,26562,398430,Online
+2025-02-09,South India,Flipkart,Samsung,QLED-55,57,54524,3107868,Offline
+2025-02-09,South India,Amazon,Samsung,NeoQLED-75,7,70187,491309,Online
+2025-02-09,South India,Flipkart,Xiaomi,MiTV-43,17,20550,349350,Online
+2025-02-09,South India,Reliance,LG,OLED-55,46,45691,2101786,Offline
+2025-02-09,West India,Flipkart,OnePlus,Y1-50,38,34322,1304236,Offline
+2025-02-09,East India,Amazon,Sony,X90K-75,17,76473,1300041,Offline
+2025-02-09,North India,Vijay Sales,Samsung,NeoQLED-75,23,67280,1547440,Offline
+2025-02-09,West India,Flipkart,OnePlus,U1S-65,54,40096,2165184,Online
+2025-02-09,West India,Reliance,LG,OLED-55,29,60691,1760039,Online
+2025-02-10,South India,Amazon,Samsung,UHD-65,48,67412,3235776,Offline
+2025-02-10,South India,Vijay Sales,LG,OLED-55,52,53085,2760420,Offline
+2025-02-10,South India,Croma,Sony,Bravia-65,58,60223,3492934,Offline
+2025-02-10,North India,Vijay Sales,Samsung,UHD-65,28,65671,1838788,Offline
+2025-02-10,West India,Croma,OnePlus,Y1-50,8,26067,208536,Offline
+2025-02-10,West India,Croma,Xiaomi,MiTV-43,49,31292,1533308,Online
+2025-02-10,South India,Flipkart,OnePlus,Y1-50,25,33613,840325,Online
+2025-02-10,East India,Flipkart,OnePlus,U1S-65,28,38732,1084496,Offline
+2025-02-10,East India,Flipkart,LG,OLED-65,16,54979,879664,Offline
+2025-02-10,South India,Vijay Sales,Xiaomi,MiTV-55,17,33200,564400,Online
+2025-02-10,West India,Flipkart,Sony,X90K-75,38,70691,2686258,Online
+2025-02-10,West India,Reliance,Sony,Bravia-65,18,81230,1462140,Offline
+2025-02-11,East India,Vijay Sales,OnePlus,U1S-65,27,44843,1210761,Online
+2025-02-11,South India,Amazon,LG,OLED-65,48,69290,3325920,Offline
+2025-02-11,East India,Flipkart,Sony,Bravia-65,45,77644,3493980,Online
+2025-02-11,South India,Amazon,Sony,Bravia-55,25,67529,1688225,Offline
+2025-02-11,West India,Flipkart,Sony,Bravia-65,59,58194,3433446,Online
+2025-02-11,South India,Croma,Xiaomi,MiTV-43,11,20431,224741,Online
+2025-02-11,North India,Amazon,OnePlus,Y1-50,10,34311,343110,Offline
+2025-02-11,South India,Croma,OnePlus,Y1-50,6,40602,243612,Offline
+2025-02-11,East India,Vijay Sales,Xiaomi,MiTV-43,49,30339,1486611,Offline
+2025-02-11,East India,Amazon,Xiaomi,RedmiTV-50,19,25992,493848,Offline
+2025-02-11,South India,Amazon,Samsung,QLED-55,38,53932,2049416,Online
+2025-02-11,West India,Flipkart,LG,OLED-55,54,55152,2978208,Offline
+2025-02-11,South India,Flipkart,OnePlus,U1S-65,30,37398,1121940,Online
+2025-02-12,North India,Flipkart,Sony,X90K-75,53,68656,3638768,Offline
+2025-02-12,South India,Reliance,Sony,Bravia-65,23,79841,1836343,Online
+2025-02-12,East India,Reliance,Sony,Bravia-65,39,62185,2425215,Online
+2025-02-12,West India,Reliance,Sony,Bravia-65,14,82347,1152858,Offline
+2025-02-12,West India,Amazon,Xiaomi,RedmiTV-50,55,33820,1860100,Online
+2025-02-12,East India,Flipkart,Samsung,NeoQLED-75,35,56901,1991535,Online
+2025-02-12,North India,Croma,Xiaomi,MiTV-55,20,32047,640940,Online
+2025-02-12,West India,Flipkart,LG,OLED-65,15,74139,1112085,Offline
+2025-02-12,East India,Croma,LG,OLED-55,60,55464,3327840,Offline
+2025-02-12,North India,Croma,LG,NanoCell-50,12,40585,487020,Offline
+2025-02-12,South India,Amazon,Samsung,QLED-55,15,77762,1166430,Online
+2025-02-12,East India,Croma,OnePlus,Y1-50,13,36380,472940,Offline
+2025-02-13,North India,Flipkart,LG,NanoCell-50,13,71804,933452,Offline
+2025-02-13,West India,Croma,OnePlus,Y1-50,39,44617,1740063,Online
+2025-02-13,North India,Vijay Sales,Sony,Bravia-55,23,85494,1966362,Offline
+2025-02-13,South India,Reliance,OnePlus,U1S-65,54,42660,2303640,Offline
+2025-02-13,South India,Vijay Sales,Xiaomi,RedmiTV-50,14,30500,427000,Online
+2025-02-13,North India,Vijay Sales,Samsung,QLED-55,58,53504,3103232,Offline
+2025-02-13,South India,Reliance,Samsung,NeoQLED-75,46,70467,3241482,Offline
+2025-02-13,North India,Amazon,Sony,X90K-75,50,50857,2542850,Online
+2025-02-13,West India,Reliance,LG,NanoCell-50,52,43820,2278640,Online
+2025-02-13,North India,Amazon,Samsung,QLED-55,38,51364,1951832,Online
+2025-02-13,South India,Vijay Sales,Sony,X90K-75,45,86596,3896820,Offline
+2025-02-14,West India,Reliance,Sony,Bravia-65,40,83075,3323000,Offline
+2025-02-14,East India,Amazon,OnePlus,U1S-65,59,35598,2100282,Online
+2025-02-14,South India,Flipkart,OnePlus,Q1-55,21,25006,525126,Online
+2025-02-14,East India,Vijay Sales,Samsung,NeoQLED-75,13,64781,842153,Offline
+2025-02-14,North India,Amazon,OnePlus,Q1-55,40,36654,1466160,Online
+2025-02-14,South India,Amazon,LG,NanoCell-50,20,59680,1193600,Offline
+2025-02-14,South India,Reliance,LG,OLED-65,16,46249,739984,Online
+2025-02-14,West India,Reliance,Samsung,UHD-65,27,73462,1983474,Online
+2025-02-14,West India,Reliance,LG,NanoCell-50,7,49802,348614,Online
+2025-02-14,South India,Reliance,Xiaomi,MiTV-55,53,27076,1435028,Offline
+2025-02-14,South India,Croma,LG,OLED-55,35,66161,2315635,Offline
+2025-02-14,West India,Croma,Sony,Bravia-55,40,81972,3278880,Online
+2025-02-14,South India,Croma,Samsung,UHD-65,54,73184,3951936,Offline
+2025-02-14,East India,Amazon,Sony,Bravia-55,27,69976,1889352,Online
+2025-02-14,West India,Reliance,Sony,Bravia-65,48,60223,2890704,Online
+2025-02-15,East India,Reliance,LG,NanoCell-50,56,69495,3891720,Offline
+2025-02-15,South India,Vijay Sales,Sony,Bravia-65,39,66951,2611089,Online
+2025-02-15,West India,Vijay Sales,OnePlus,Y1-50,21,33889,711669,Online
+2025-02-15,West India,Reliance,Samsung,UHD-65,47,62780,2950660,Offline
+2025-02-15,South India,Flipkart,OnePlus,Q1-55,11,31108,342188,Online
+2025-02-15,West India,Vijay Sales,Samsung,QLED-55,20,79695,1593900,Online
+2025-02-15,North India,Amazon,LG,OLED-65,45,72850,3278250,Offline
+2025-02-15,West India,Reliance,OnePlus,U1S-65,19,29497,560443,Online
+2025-02-15,West India,Vijay Sales,OnePlus,Q1-55,48,30005,1440240,Offline
+2025-02-15,East India,Vijay Sales,LG,OLED-65,39,49081,1914159,Online
+2025-02-16,East India,Vijay Sales,Sony,Bravia-55,54,87017,4698918,Online
+2025-02-16,South India,Amazon,Sony,X90K-75,6,77134,462804,Offline
+2025-02-16,South India,Croma,Samsung,QLED-55,16,46716,747456,Online
+2025-02-16,North India,Amazon,Samsung,NeoQLED-75,54,76234,4116636,Offline
+2025-02-16,East India,Croma,Xiaomi,MiTV-55,35,23707,829745,Offline
+2025-02-16,North India,Amazon,Xiaomi,MiTV-43,52,22901,1190852,Offline
+2025-02-16,East India,Flipkart,Sony,Bravia-55,30,89841,2695230,Offline
+2025-02-16,North India,Vijay Sales,Samsung,UHD-65,34,47779,1624486,Online
+2025-02-16,West India,Vijay Sales,Samsung,QLED-55,23,73806,1697538,Offline
+2025-02-16,South India,Flipkart,LG,NanoCell-50,8,70381,563048,Online
+2025-02-17,South India,Vijay Sales,OnePlus,Y1-50,30,30861,925830,Offline
+2025-02-17,South India,Flipkart,Samsung,UHD-65,25,55747,1393675,Offline
+2025-02-17,North India,Vijay Sales,Xiaomi,RedmiTV-50,55,29016,1595880,Online
+2025-02-17,South India,Amazon,OnePlus,Q1-55,60,26681,1600860,Offline
+2025-02-17,East India,Amazon,Xiaomi,MiTV-55,45,23323,1049535,Offline
+2025-02-17,North India,Flipkart,Xiaomi,MiTV-55,39,23897,931983,Offline
+2025-02-17,West India,Flipkart,Xiaomi,MiTV-43,43,30154,1296622,Online
+2025-02-17,North India,Croma,Sony,Bravia-65,46,52406,2410676,Offline
+2025-02-17,East India,Reliance,Samsung,QLED-55,31,56681,1757111,Online
+2025-02-18,East India,Reliance,Samsung,UHD-65,25,69154,1728850,Online
+2025-02-18,East India,Flipkart,Sony,Bravia-65,49,71575,3507175,Online
+2025-02-18,South India,Vijay Sales,Samsung,QLED-55,41,79665,3266265,Offline
+2025-02-18,West India,Vijay Sales,LG,OLED-65,38,72531,2756178,Offline
+2025-02-18,South India,Vijay Sales,Sony,X90K-75,23,50103,1152369,Online
+2025-02-18,South India,Vijay Sales,Xiaomi,MiTV-55,7,20185,141295,Offline
+2025-02-18,East India,Reliance,LG,OLED-65,37,47460,1756020,Offline
+2025-02-18,West India,Vijay Sales,OnePlus,Y1-50,58,36073,2092234,Offline
+2025-02-18,West India,Reliance,Sony,Bravia-55,14,85190,1192660,Online
+2025-02-18,East India,Vijay Sales,LG,NanoCell-50,39,61739,2407821,Online
+2025-02-18,South India,Amazon,Samsung,UHD-65,29,55876,1620404,Online
+2025-02-18,East India,Amazon,Samsung,UHD-65,31,50688,1571328,Offline
+2025-02-18,South India,Vijay Sales,LG,OLED-55,12,53244,638928,Offline
+2025-02-18,North India,Flipkart,OnePlus,Y1-50,17,35726,607342,Online
+2025-02-18,North India,Vijay Sales,Sony,Bravia-65,51,80105,4085355,Online
+2025-02-19,East India,Reliance,OnePlus,Y1-50,26,35239,916214,Online
+2025-02-19,East India,Croma,LG,OLED-55,17,74883,1273011,Online
+2025-02-19,East India,Croma,Sony,Bravia-55,12,86675,1040100,Offline
+2025-02-19,East India,Amazon,Sony,X90K-75,56,87623,4906888,Offline
+2025-02-19,East India,Vijay Sales,Xiaomi,MiTV-43,13,21735,282555,Online
+2025-02-19,North India,Flipkart,Xiaomi,MiTV-43,50,25444,1272200,Online
+2025-02-19,West India,Vijay Sales,Sony,Bravia-65,57,56374,3213318,Offline
+2025-02-19,South India,Croma,Sony,X90K-75,21,75695,1589595,Offline
+2025-02-20,West India,Reliance,Samsung,UHD-65,12,68032,816384,Offline
+2025-02-20,East India,Vijay Sales,OnePlus,Y1-50,37,43223,1599251,Online
+2025-02-20,East India,Vijay Sales,Xiaomi,MiTV-55,42,28977,1217034,Offline
+2025-02-20,West India,Reliance,LG,OLED-55,57,62426,3558282,Online
+2025-02-20,North India,Vijay Sales,Xiaomi,MiTV-43,42,33468,1405656,Online
+2025-02-20,East India,Flipkart,Samsung,NeoQLED-75,11,69832,768152,Online
+2025-02-20,South India,Croma,OnePlus,Q1-55,56,42408,2374848,Offline
+2025-02-20,West India,Vijay Sales,OnePlus,U1S-65,17,34979,594643,Offline
+2025-02-20,East India,Reliance,OnePlus,Y1-50,44,34639,1524116,Online
+2025-02-20,East India,Vijay Sales,Samsung,QLED-55,50,68543,3427150,Online
+2025-02-20,West India,Vijay Sales,Xiaomi,RedmiTV-50,25,27130,678250,Online
+2025-02-20,South India,Flipkart,Sony,Bravia-65,40,73611,2944440,Online
+2025-02-20,South India,Reliance,Samsung,NeoQLED-75,6,54436,326616,Online
+2025-02-20,West India,Flipkart,OnePlus,U1S-65,44,43089,1895916,Offline
+2025-02-20,West India,Amazon,Sony,Bravia-65,32,87875,2812000,Offline
+2025-02-21,East India,Reliance,Samsung,NeoQLED-75,35,69155,2420425,Online
+2025-02-21,East India,Flipkart,OnePlus,Y1-50,38,27558,1047204,Offline
+2025-02-21,North India,Amazon,OnePlus,Y1-50,35,35863,1255205,Offline
+2025-02-21,East India,Amazon,LG,OLED-55,7,57068,399476,Online
+2025-02-21,North India,Amazon,OnePlus,Y1-50,23,27518,632914,Offline
+2025-02-21,East India,Croma,OnePlus,U1S-65,22,30721,675862,Online
+2025-02-21,West India,Amazon,Sony,Bravia-55,55,81779,4497845,Online
+2025-02-21,East India,Reliance,Sony,X90K-75,57,82502,4702614,Online
+2025-02-21,West India,Croma,Sony,X90K-75,51,53560,2731560,Online
+2025-02-21,South India,Flipkart,Xiaomi,MiTV-55,24,26222,629328,Offline
+2025-02-21,East India,Croma,OnePlus,U1S-65,5,35344,176720,Online
+2025-02-21,North India,Vijay Sales,LG,OLED-65,44,57716,2539504,Offline
+2025-02-21,West India,Flipkart,Sony,X90K-75,48,84075,4035600,Offline
+2025-02-21,North India,Reliance,Samsung,QLED-55,31,51402,1593462,Offline
+2025-02-22,East India,Amazon,Sony,Bravia-65,6,53727,322362,Online
+2025-02-22,North India,Vijay Sales,Sony,Bravia-55,47,57264,2691408,Offline
+2025-02-22,North India,Flipkart,LG,OLED-65,49,50614,2480086,Offline
+2025-02-22,North India,Flipkart,Xiaomi,MiTV-55,8,27218,217744,Offline
+2025-02-22,South India,Vijay Sales,Xiaomi,MiTV-43,46,28857,1327422,Online
+2025-02-22,North India,Flipkart,LG,OLED-55,7,56423,394961,Online
+2025-02-22,West India,Croma,Samsung,QLED-55,47,70590,3317730,Offline
+2025-02-22,North India,Vijay Sales,Xiaomi,MiTV-55,32,20054,641728,Offline
+2025-02-22,North India,Vijay Sales,OnePlus,U1S-65,26,27970,727220,Offline
+2025-02-22,East India,Reliance,Xiaomi,MiTV-55,46,26294,1209524,Offline
+2025-02-22,West India,Reliance,LG,OLED-65,10,49171,491710,Online
+2025-02-23,West India,Flipkart,Samsung,NeoQLED-75,46,65167,2997682,Online
+2025-02-23,North India,Amazon,Samsung,UHD-65,55,47805,2629275,Offline
+2025-02-23,South India,Vijay Sales,Sony,Bravia-65,7,82040,574280,Online
+2025-02-23,South India,Reliance,Sony,X90K-75,8,56376,451008,Online
+2025-02-23,North India,Reliance,Xiaomi,RedmiTV-50,56,26983,1511048,Offline
+2025-02-23,East India,Reliance,OnePlus,Q1-55,13,30683,398879,Offline
+2025-02-23,North India,Reliance,LG,OLED-55,53,64243,3404879,Offline
+2025-02-23,South India,Vijay Sales,Samsung,QLED-55,11,69650,766150,Online
+2025-02-23,North India,Reliance,Sony,Bravia-65,50,77277,3863850,Online
+2025-02-23,South India,Amazon,OnePlus,U1S-65,31,30898,957838,Offline
+2025-02-23,North India,Amazon,LG,OLED-65,5,47700,238500,Offline
+2025-02-24,West India,Croma,LG,OLED-55,17,71091,1208547,Online
+2025-02-24,North India,Reliance,LG,OLED-65,18,61908,1114344,Online
+2025-02-24,North India,Reliance,OnePlus,Y1-50,15,27321,409815,Online
+2025-02-24,West India,Vijay Sales,OnePlus,U1S-65,31,28608,886848,Offline
+2025-02-24,South India,Reliance,Sony,X90K-75,31,74610,2312910,Offline
+2025-02-24,North India,Flipkart,Sony,Bravia-65,44,61669,2713436,Offline
+2025-02-24,South India,Amazon,LG,OLED-55,26,43909,1141634,Online
+2025-02-24,West India,Flipkart,Xiaomi,MiTV-43,53,29889,1584117,Online
+2025-02-24,South India,Reliance,Xiaomi,RedmiTV-50,36,33713,1213668,Offline
+2025-02-24,North India,Flipkart,Sony,Bravia-65,25,87975,2199375,Online
+2025-02-24,North India,Flipkart,Samsung,QLED-55,35,78044,2731540,Offline
+2025-02-25,West India,Flipkart,Sony,Bravia-65,40,76648,3065920,Offline
+2025-02-25,South India,Reliance,Samsung,UHD-65,47,64977,3053919,Online
+2025-02-25,West India,Flipkart,Sony,X90K-75,30,74275,2228250,Online
+2025-02-25,West India,Amazon,OnePlus,Y1-50,23,27652,635996,Offline
+2025-02-25,North India,Vijay Sales,LG,OLED-55,12,70497,845964,Offline
+2025-02-25,East India,Croma,OnePlus,Q1-55,9,42682,384138,Online
+2025-02-25,West India,Vijay Sales,Sony,X90K-75,53,71001,3763053,Offline
+2025-02-25,East India,Reliance,Samsung,UHD-65,27,74649,2015523,Offline
+2025-02-25,East India,Flipkart,OnePlus,U1S-65,56,27627,1547112,Offline
+2025-02-26,East India,Reliance,Samsung,QLED-55,22,52341,1151502,Online
+2025-02-26,East India,Flipkart,OnePlus,Y1-50,35,25703,899605,Offline
+2025-02-26,South India,Reliance,Samsung,QLED-55,58,79053,4585074,Offline
+2025-02-26,West India,Vijay Sales,OnePlus,Q1-55,33,35043,1156419,Online
+2025-02-26,East India,Croma,Xiaomi,MiTV-55,23,24659,567157,Online
+2025-02-26,South India,Vijay Sales,LG,OLED-55,16,55591,889456,Offline
+2025-02-26,South India,Flipkart,LG,OLED-65,16,42273,676368,Offline
+2025-02-26,South India,Amazon,Xiaomi,RedmiTV-50,15,20408,306120,Offline
+2025-02-26,South India,Flipkart,LG,OLED-55,5,59369,296845,Online
+2025-02-26,West India,Amazon,Samsung,NeoQLED-75,35,47626,1666910,Offline
+2025-02-27,West India,Amazon,Samsung,UHD-65,8,57789,462312,Online
+2025-02-27,North India,Reliance,OnePlus,U1S-65,48,41071,1971408,Offline
+2025-02-27,North India,Amazon,Xiaomi,MiTV-43,50,26108,1305400,Offline
+2025-02-27,East India,Amazon,LG,OLED-65,60,69112,4146720,Offline
+2025-02-27,East India,Croma,Xiaomi,RedmiTV-50,31,22353,692943,Offline
+2025-02-27,West India,Vijay Sales,LG,OLED-55,42,40433,1698186,Offline
+2025-02-27,South India,Vijay Sales,Xiaomi,RedmiTV-50,41,33636,1379076,Offline
+2025-02-27,West India,Reliance,LG,NanoCell-50,24,70372,1688928,Online
+2025-02-27,South India,Amazon,LG,NanoCell-50,58,58853,3413474,Offline
+2025-02-27,South India,Reliance,Samsung,UHD-65,36,49372,1777392,Offline
+2025-02-27,East India,Flipkart,Samsung,UHD-65,37,46149,1707513,Online
+2025-02-28,West India,Croma,LG,OLED-55,8,67493,539944,Online
+2025-02-28,East India,Amazon,OnePlus,Q1-55,9,28096,252864,Online
+2025-02-28,East India,Amazon,LG,OLED-65,48,63044,3026112,Online
+2025-02-28,South India,Vijay Sales,LG,OLED-65,54,62302,3364308,Online
+2025-02-28,South India,Croma,OnePlus,Y1-50,58,42435,2461230,Online
+2025-02-28,West India,Flipkart,Samsung,QLED-55,57,53600,3055200,Offline
+2025-02-28,South India,Flipkart,OnePlus,Q1-55,53,28886,1530958,Online
+2025-02-28,South India,Croma,Sony,Bravia-55,13,58533,760929,Online
+2025-02-28,North India,Flipkart,Xiaomi,MiTV-43,17,29718,505206,Offline
+2025-02-28,North India,Amazon,Samsung,QLED-55,24,45673,1096152,Online
+2025-02-28,South India,Amazon,Samsung,QLED-55,14,63178,884492,Online
+2025-02-28,North India,Reliance,OnePlus,Y1-50,38,42600,1618800,Online
+2025-02-28,North India,Croma,OnePlus,Q1-55,35,28516,998060,Online
+2025-03-01,West India,Flipkart,Sony,X90K-75,19,57395,1090505,Online
+2025-03-01,South India,Flipkart,LG,NanoCell-50,23,61503,1414569,Offline
+2025-03-01,East India,Flipkart,OnePlus,Q1-55,24,39023,936552,Online
+2025-03-01,North India,Flipkart,LG,OLED-55,5,65976,329880,Online
+2025-03-01,North India,Croma,Xiaomi,MiTV-55,49,25959,1271991,Offline
+2025-03-01,South India,Vijay Sales,Xiaomi,MiTV-43,19,32530,618070,Offline
+2025-03-01,West India,Amazon,Xiaomi,RedmiTV-50,43,24569,1056467,Offline
+2025-03-01,North India,Reliance,LG,OLED-65,36,41947,1510092,Online
+2025-03-01,West India,Reliance,Sony,Bravia-55,43,60009,2580387,Online
+2025-03-01,West India,Flipkart,Sony,Bravia-55,47,82129,3860063,Offline
+2025-03-01,North India,Reliance,Xiaomi,MiTV-43,29,27250,790250,Online
+2025-03-01,North India,Croma,OnePlus,Q1-55,60,29406,1764360,Offline
+2025-03-01,West India,Flipkart,Samsung,NeoQLED-75,48,77148,3703104,Online
+2025-03-02,West India,Amazon,Xiaomi,RedmiTV-50,29,21006,609174,Online
+2025-03-02,South India,Amazon,LG,NanoCell-50,42,64941,2727522,Offline
+2025-03-02,East India,Flipkart,LG,OLED-55,47,55376,2602672,Online
+2025-03-02,North India,Amazon,Samsung,UHD-65,15,46291,694365,Offline
+2025-03-02,West India,Amazon,Samsung,NeoQLED-75,35,46457,1625995,Offline
+2025-03-02,North India,Flipkart,Samsung,NeoQLED-75,48,58494,2807712,Online
+2025-03-02,East India,Amazon,Xiaomi,MiTV-43,36,24708,889488,Online
+2025-03-02,East India,Vijay Sales,Xiaomi,MiTV-43,44,29697,1306668,Offline
+2025-03-03,West India,Flipkart,Sony,Bravia-55,55,69781,3837955,Offline
+2025-03-03,East India,Croma,Xiaomi,MiTV-55,21,34432,723072,Online
+2025-03-03,West India,Croma,Xiaomi,MiTV-55,45,28556,1285020,Offline
+2025-03-03,West India,Croma,Sony,Bravia-65,52,78533,4083716,Online
+2025-03-03,West India,Amazon,LG,NanoCell-50,15,55475,832125,Online
+2025-03-03,South India,Croma,Samsung,QLED-55,56,65351,3659656,Offline
+2025-03-03,North India,Croma,Sony,Bravia-55,13,66934,870142,Online
+2025-03-03,North India,Flipkart,Samsung,QLED-55,60,50500,3030000,Offline
+2025-03-03,East India,Reliance,Xiaomi,RedmiTV-50,58,29354,1702532,Online
+2025-03-04,West India,Reliance,Sony,X90K-75,12,71580,858960,Offline
+2025-03-04,South India,Croma,Samsung,QLED-55,18,62992,1133856,Online
+2025-03-04,West India,Vijay Sales,LG,NanoCell-50,12,67772,813264,Offline
+2025-03-04,South India,Amazon,Xiaomi,RedmiTV-50,28,33786,946008,Online
+2025-03-04,East India,Vijay Sales,Xiaomi,MiTV-55,45,34051,1532295,Offline
+2025-03-04,North India,Flipkart,LG,OLED-65,10,53787,537870,Offline
+2025-03-04,East India,Flipkart,Samsung,UHD-65,60,50249,3014940,Offline
+2025-03-04,West India,Reliance,Sony,X90K-75,21,54349,1141329,Offline
+2025-03-04,West India,Reliance,Samsung,NeoQLED-75,46,57041,2623886,Online
+2025-03-04,East India,Amazon,OnePlus,Y1-50,12,29262,351144,Offline
+2025-03-04,East India,Flipkart,Xiaomi,RedmiTV-50,13,33099,430287,Online
+2025-03-04,North India,Flipkart,LG,OLED-55,30,54711,1641330,Online
+2025-03-05,West India,Croma,LG,NanoCell-50,59,66282,3910638,Offline
+2025-03-05,South India,Reliance,LG,OLED-55,41,74461,3052901,Offline
+2025-03-05,North India,Croma,Sony,Bravia-65,60,68871,4132260,Offline
+2025-03-05,South India,Vijay Sales,Sony,Bravia-55,51,77415,3948165,Online
+2025-03-05,East India,Amazon,Sony,X90K-75,33,74224,2449392,Offline
+2025-03-05,South India,Amazon,Xiaomi,RedmiTV-50,18,21196,381528,Online
+2025-03-05,North India,Amazon,Sony,Bravia-55,27,50351,1359477,Offline
+2025-03-05,West India,Amazon,Sony,X90K-75,7,67058,469406,Offline
+2025-03-05,West India,Croma,Samsung,UHD-65,50,79761,3988050,Offline
+2025-03-06,South India,Flipkart,LG,NanoCell-50,28,57250,1603000,Offline
+2025-03-06,West India,Croma,LG,NanoCell-50,36,68835,2478060,Online
+2025-03-06,North India,Croma,Sony,Bravia-65,35,60718,2125130,Offline
+2025-03-06,North India,Flipkart,LG,NanoCell-50,40,72308,2892320,Online
+2025-03-06,East India,Reliance,Sony,Bravia-55,16,83340,1333440,Online
+2025-03-06,North India,Vijay Sales,OnePlus,Y1-50,31,28090,870790,Offline
+2025-03-06,North India,Amazon,Samsung,UHD-65,28,51951,1454628,Offline
+2025-03-06,West India,Flipkart,LG,NanoCell-50,47,42873,2015031,Offline
+2025-03-07,South India,Reliance,LG,OLED-65,56,64994,3639664,Offline
+2025-03-07,South India,Croma,Xiaomi,MiTV-43,6,32771,196626,Offline
+2025-03-07,South India,Reliance,LG,OLED-65,56,48604,2721824,Offline
+2025-03-07,South India,Flipkart,Xiaomi,MiTV-55,35,21478,751730,Offline
+2025-03-07,South India,Flipkart,Xiaomi,MiTV-43,7,31082,217574,Online
+2025-03-07,West India,Vijay Sales,OnePlus,Y1-50,23,40650,934950,Offline
+2025-03-07,South India,Croma,LG,OLED-55,38,43127,1638826,Online
+2025-03-07,North India,Vijay Sales,Xiaomi,MiTV-55,11,25823,284053,Online
+2025-03-07,North India,Reliance,Xiaomi,MiTV-43,55,21364,1175020,Offline
+2025-03-07,East India,Vijay Sales,Xiaomi,RedmiTV-50,33,23458,774114,Online
+2025-03-08,North India,Flipkart,OnePlus,Y1-50,5,40634,203170,Offline
+2025-03-08,West India,Vijay Sales,Xiaomi,MiTV-55,44,21435,943140,Online
+2025-03-08,North India,Croma,Samsung,QLED-55,49,57335,2809415,Online
+2025-03-08,West India,Vijay Sales,Sony,Bravia-65,24,59710,1433040,Online
+2025-03-08,South India,Croma,Xiaomi,MiTV-55,35,23298,815430,Offline
+2025-03-08,North India,Amazon,Samsung,QLED-55,45,73297,3298365,Offline
+2025-03-08,North India,Flipkart,Xiaomi,MiTV-55,37,28655,1060235,Offline
+2025-03-08,East India,Vijay Sales,Samsung,UHD-65,46,72337,3327502,Offline
+2025-03-08,West India,Reliance,Sony,Bravia-55,51,80752,4118352,Online
+2025-03-08,East India,Vijay Sales,Xiaomi,MiTV-43,23,33041,759943,Online
+2025-03-08,South India,Amazon,Samsung,NeoQLED-75,35,53460,1871100,Offline
+2025-03-08,North India,Flipkart,Xiaomi,MiTV-55,20,20297,405940,Offline
+2025-03-09,South India,Croma,OnePlus,Y1-50,56,32428,1815968,Online
+2025-03-09,South India,Flipkart,LG,OLED-65,55,57530,3164150,Online
+2025-03-09,North India,Flipkart,Xiaomi,MiTV-43,11,28311,311421,Online
+2025-03-09,North India,Croma,LG,OLED-55,51,73154,3730854,Online
+2025-03-09,East India,Amazon,Sony,Bravia-65,59,78777,4647843,Online
+2025-03-09,West India,Amazon,LG,NanoCell-50,15,64407,966105,Offline
+2025-03-09,South India,Croma,OnePlus,U1S-65,55,38412,2112660,Offline
+2025-03-09,East India,Reliance,Xiaomi,MiTV-43,54,21389,1155006,Offline
+2025-03-09,West India,Croma,Xiaomi,MiTV-43,30,30348,910440,Offline
+2025-03-09,West India,Flipkart,OnePlus,U1S-65,51,34167,1742517,Online
+2025-03-09,West India,Flipkart,Sony,X90K-75,44,72626,3195544,Offline
+2025-03-09,North India,Reliance,OnePlus,U1S-65,29,28041,813189,Offline
+2025-03-09,East India,Croma,Samsung,QLED-55,55,61953,3407415,Online
+2025-03-10,East India,Amazon,OnePlus,U1S-65,12,43757,525084,Online
+2025-03-10,West India,Amazon,Sony,X90K-75,42,89029,3739218,Offline
+2025-03-10,South India,Flipkart,OnePlus,Q1-55,20,31309,626180,Offline
+2025-03-10,West India,Reliance,Sony,X90K-75,32,55370,1771840,Online
+2025-03-10,West India,Croma,Xiaomi,MiTV-43,28,32760,917280,Offline
+2025-03-10,West India,Flipkart,Xiaomi,RedmiTV-50,36,28286,1018296,Offline
+2025-03-10,West India,Croma,OnePlus,Q1-55,12,30139,361668,Offline
+2025-03-10,North India,Vijay Sales,Xiaomi,MiTV-43,12,20659,247908,Online
+2025-03-11,East India,Amazon,LG,OLED-65,23,49363,1135349,Offline
+2025-03-11,North India,Amazon,LG,OLED-55,16,48016,768256,Online
+2025-03-11,North India,Flipkart,Xiaomi,RedmiTV-50,24,27786,666864,Online
+2025-03-11,South India,Vijay Sales,Xiaomi,MiTV-55,47,21463,1008761,Offline
+2025-03-11,South India,Flipkart,LG,NanoCell-50,7,45801,320607,Online
+2025-03-11,East India,Vijay Sales,Samsung,NeoQLED-75,40,50580,2023200,Online
+2025-03-11,West India,Vijay Sales,Samsung,QLED-55,47,79855,3753185,Online
+2025-03-11,West India,Reliance,OnePlus,Q1-55,25,25762,644050,Offline
+2025-03-11,West India,Croma,Xiaomi,MiTV-43,60,24213,1452780,Online
+2025-03-12,South India,Amazon,Sony,Bravia-65,21,60107,1262247,Online
+2025-03-12,East India,Croma,Samsung,NeoQLED-75,8,64531,516248,Offline
+2025-03-12,East India,Amazon,Xiaomi,MiTV-43,8,28076,224608,Offline
+2025-03-12,North India,Amazon,Samsung,UHD-65,34,71678,2437052,Online
+2025-03-12,North India,Amazon,OnePlus,Q1-55,48,43620,2093760,Offline
+2025-03-12,West India,Reliance,OnePlus,Y1-50,55,33033,1816815,Offline
+2025-03-12,West India,Reliance,Samsung,UHD-65,58,63956,3709448,Offline
+2025-03-12,East India,Flipkart,LG,NanoCell-50,18,42980,773640,Online
+2025-03-12,East India,Reliance,Xiaomi,RedmiTV-50,12,34389,412668,Online
+2025-03-13,East India,Amazon,Xiaomi,MiTV-55,20,27533,550660,Offline
+2025-03-13,North India,Croma,Samsung,NeoQLED-75,35,45280,1584800,Offline
+2025-03-13,West India,Vijay Sales,Samsung,NeoQLED-75,46,50080,2303680,Online
+2025-03-13,East India,Flipkart,OnePlus,U1S-65,29,37139,1077031,Online
+2025-03-13,West India,Reliance,Sony,X90K-75,6,73450,440700,Online
+2025-03-13,South India,Flipkart,LG,OLED-55,22,53702,1181444,Offline
+2025-03-13,North India,Amazon,OnePlus,Q1-55,36,43537,1567332,Online
+2025-03-13,North India,Vijay Sales,Sony,X90K-75,9,67014,603126,Offline
+2025-03-13,South India,Reliance,OnePlus,Q1-55,21,26699,560679,Offline
+2025-03-13,West India,Flipkart,LG,OLED-55,48,72477,3478896,Online
+2025-03-13,South India,Reliance,LG,OLED-65,39,40338,1573182,Offline
+2025-03-13,North India,Vijay Sales,Samsung,NeoQLED-75,19,72775,1382725,Offline
+2025-03-13,East India,Reliance,Samsung,QLED-55,35,73308,2565780,Online
+2025-03-14,West India,Croma,LG,OLED-55,57,55515,3164355,Offline
+2025-03-14,North India,Flipkart,OnePlus,Y1-50,10,27130,271300,Online
+2025-03-14,North India,Flipkart,Samsung,UHD-65,44,73301,3225244,Online
+2025-03-14,East India,Flipkart,Xiaomi,MiTV-43,44,27428,1206832,Offline
+2025-03-14,West India,Vijay Sales,OnePlus,Y1-50,26,44261,1150786,Online
+2025-03-14,North India,Reliance,Samsung,NeoQLED-75,50,49426,2471300,Online
+2025-03-14,East India,Amazon,Xiaomi,MiTV-55,51,22255,1135005,Online
+2025-03-14,South India,Amazon,OnePlus,U1S-65,37,40385,1494245,Offline
+2025-03-14,East India,Amazon,LG,OLED-55,38,55557,2111166,Online
+2025-03-15,East India,Croma,Sony,X90K-75,17,72383,1230511,Offline
+2025-03-15,East India,Vijay Sales,OnePlus,U1S-65,44,28435,1251140,Offline
+2025-03-15,North India,Flipkart,Sony,Bravia-65,45,65091,2929095,Online
+2025-03-15,West India,Amazon,Xiaomi,MiTV-43,30,20162,604860,Offline
+2025-03-15,North India,Vijay Sales,Samsung,QLED-55,23,73862,1698826,Online
+2025-03-15,South India,Amazon,Sony,Bravia-65,21,72270,1517670,Online
+2025-03-15,South India,Amazon,Samsung,QLED-55,58,53994,3131652,Offline
+2025-03-15,West India,Croma,LG,OLED-65,47,68424,3215928,Online
+2025-03-15,South India,Croma,Sony,Bravia-65,39,74527,2906553,Online
+2025-03-15,North India,Vijay Sales,OnePlus,Y1-50,59,26745,1577955,Offline
+2025-03-15,South India,Vijay Sales,OnePlus,U1S-65,18,41666,749988,Offline
+2025-03-15,East India,Flipkart,OnePlus,U1S-65,16,40836,653376,Offline
+2025-03-15,West India,Amazon,OnePlus,U1S-65,45,31651,1424295,Offline
+2025-03-15,South India,Flipkart,Sony,Bravia-55,32,87445,2798240,Offline
+2025-03-16,South India,Reliance,LG,OLED-65,38,42696,1622448,Offline
+2025-03-16,West India,Flipkart,Xiaomi,MiTV-55,31,24473,758663,Online
+2025-03-16,South India,Flipkart,Sony,Bravia-55,46,73533,3382518,Online
+2025-03-16,East India,Croma,Samsung,QLED-55,9,68608,617472,Offline
+2025-03-16,East India,Amazon,LG,OLED-55,50,57113,2855650,Offline
+2025-03-16,East India,Flipkart,Xiaomi,RedmiTV-50,53,32470,1720910,Offline
+2025-03-16,South India,Croma,Sony,Bravia-55,19,88469,1680911,Offline
+2025-03-16,North India,Amazon,Sony,Bravia-55,54,63735,3441690,Online
+2025-03-16,East India,Croma,OnePlus,Y1-50,24,32388,777312,Offline
+2025-03-17,West India,Vijay Sales,LG,OLED-65,42,42110,1768620,Offline
+2025-03-17,West India,Flipkart,Sony,Bravia-55,9,62342,561078,Offline
+2025-03-17,East India,Reliance,Sony,Bravia-65,48,52101,2500848,Online
+2025-03-17,North India,Flipkart,LG,OLED-55,19,44586,847134,Offline
+2025-03-17,North India,Croma,LG,OLED-65,30,48463,1453890,Offline
+2025-03-17,North India,Flipkart,Sony,Bravia-65,60,70300,4218000,Online
+2025-03-17,East India,Vijay Sales,Sony,X90K-75,50,68051,3402550,Offline
+2025-03-17,North India,Flipkart,OnePlus,Y1-50,38,40161,1526118,Online
+2025-03-17,North India,Amazon,Xiaomi,MiTV-55,49,26800,1313200,Online
+2025-03-17,West India,Flipkart,Xiaomi,RedmiTV-50,16,23927,382832,Offline
+2025-03-17,East India,Reliance,Sony,Bravia-55,31,74165,2299115,Offline
+2025-03-17,West India,Flipkart,Sony,Bravia-55,18,52925,952650,Offline
+2025-03-17,West India,Amazon,Xiaomi,MiTV-43,30,21878,656340,Offline
+2025-03-17,West India,Flipkart,Xiaomi,MiTV-43,10,27713,277130,Online
+2025-03-18,North India,Vijay Sales,Samsung,QLED-55,23,53136,1222128,Online
+2025-03-18,East India,Croma,Xiaomi,MiTV-55,16,23541,376656,Online
+2025-03-18,North India,Flipkart,LG,OLED-65,8,64732,517856,Online
+2025-03-18,East India,Croma,Sony,Bravia-65,6,51831,310986,Online
+2025-03-18,South India,Reliance,Sony,X90K-75,15,77242,1158630,Offline
+2025-03-18,South India,Vijay Sales,Sony,X90K-75,30,57917,1737510,Offline
+2025-03-18,East India,Croma,Samsung,UHD-65,46,65725,3023350,Online
+2025-03-18,North India,Amazon,OnePlus,U1S-65,7,44623,312361,Offline
+2025-03-18,North India,Vijay Sales,OnePlus,Y1-50,21,37732,792372,Online
+2025-03-18,East India,Croma,LG,NanoCell-50,35,41156,1440460,Offline
+2025-03-19,South India,Vijay Sales,OnePlus,Q1-55,5,32746,163730,Offline
+2025-03-19,South India,Vijay Sales,Samsung,QLED-55,13,69544,904072,Offline
+2025-03-19,South India,Reliance,Sony,X90K-75,43,71541,3076263,Online
+2025-03-19,West India,Amazon,Samsung,QLED-55,59,66710,3935890,Online
+2025-03-19,South India,Croma,OnePlus,U1S-65,38,25198,957524,Online
+2025-03-19,West India,Reliance,Sony,Bravia-65,45,63383,2852235,Online
+2025-03-19,South India,Vijay Sales,Samsung,UHD-65,51,75610,3856110,Online
+2025-03-19,West India,Croma,OnePlus,Y1-50,24,31599,758376,Offline
+2025-03-19,West India,Reliance,LG,OLED-65,29,68926,1998854,Offline
+2025-03-19,South India,Flipkart,Samsung,UHD-65,32,50454,1614528,Offline
+2025-03-19,West India,Flipkart,LG,OLED-65,23,71512,1644776,Online
+2025-03-19,West India,Croma,Sony,Bravia-65,5,82813,414065,Offline
+2025-03-19,West India,Amazon,Xiaomi,MiTV-55,24,22039,528936,Online
+2025-03-19,South India,Flipkart,LG,NanoCell-50,27,64129,1731483,Offline
+2025-03-20,South India,Croma,Xiaomi,MiTV-43,57,24281,1384017,Offline
+2025-03-20,South India,Amazon,Sony,X90K-75,42,50808,2133936,Offline
+2025-03-20,West India,Vijay Sales,Samsung,NeoQLED-75,17,72718,1236206,Offline
+2025-03-20,East India,Flipkart,Samsung,QLED-55,45,67570,3040650,Offline
+2025-03-20,East India,Reliance,Sony,Bravia-55,5,54577,272885,Offline
+2025-03-20,West India,Croma,Sony,Bravia-55,16,62977,1007632,Online
+2025-03-20,West India,Vijay Sales,Sony,Bravia-65,17,61975,1053575,Offline
+2025-03-20,North India,Croma,Samsung,UHD-65,10,69754,697540,Online
+2025-03-20,South India,Flipkart,Xiaomi,RedmiTV-50,53,24359,1291027,Online
+2025-03-20,North India,Croma,OnePlus,Y1-50,29,36043,1045247,Offline
+2025-03-20,East India,Amazon,LG,OLED-65,57,66114,3768498,Offline
+2025-03-20,East India,Reliance,Samsung,UHD-65,60,71332,4279920,Offline
+2025-03-20,South India,Amazon,Xiaomi,RedmiTV-50,48,30817,1479216,Online
+2025-03-20,East India,Reliance,LG,OLED-55,56,55306,3097136,Offline
+2025-03-21,East India,Flipkart,Xiaomi,RedmiTV-50,59,29947,1766873,Online
+2025-03-21,North India,Croma,Xiaomi,MiTV-43,24,21895,525480,Online
+2025-03-21,South India,Croma,Sony,X90K-75,49,56912,2788688,Online
+2025-03-21,East India,Flipkart,LG,OLED-55,51,48067,2451417,Offline
+2025-03-21,North India,Amazon,Sony,X90K-75,54,72493,3914622,Offline
+2025-03-21,South India,Croma,LG,OLED-55,23,45841,1054343,Online
+2025-03-21,North India,Vijay Sales,LG,OLED-55,59,40110,2366490,Online
+2025-03-21,West India,Flipkart,LG,OLED-65,56,54558,3055248,Online
+2025-03-21,West India,Amazon,Sony,Bravia-55,58,82757,4799906,Offline
+2025-03-22,North India,Vijay Sales,LG,OLED-65,37,71344,2639728,Offline
+2025-03-22,East India,Flipkart,Samsung,UHD-65,14,58802,823228,Offline
+2025-03-22,West India,Amazon,Sony,Bravia-65,40,72112,2884480,Offline
+2025-03-22,West India,Flipkart,Samsung,NeoQLED-75,51,63549,3240999,Offline
+2025-03-22,North India,Croma,LG,NanoCell-50,60,69984,4199040,Online
+2025-03-22,West India,Flipkart,LG,OLED-55,18,40598,730764,Online
+2025-03-22,South India,Flipkart,Xiaomi,RedmiTV-50,58,25825,1497850,Online
+2025-03-22,North India,Reliance,OnePlus,Q1-55,26,26113,678938,Online
+2025-03-22,South India,Flipkart,Xiaomi,MiTV-55,49,32742,1604358,Offline
+2025-03-22,East India,Flipkart,LG,OLED-55,12,47998,575976,Online
+2025-03-23,West India,Amazon,Samsung,NeoQLED-75,16,70163,1122608,Online
+2025-03-23,North India,Amazon,Samsung,NeoQLED-75,60,57116,3426960,Offline
+2025-03-23,North India,Vijay Sales,OnePlus,Q1-55,50,44631,2231550,Online
+2025-03-23,North India,Vijay Sales,Xiaomi,MiTV-55,12,30692,368304,Online
+2025-03-23,East India,Reliance,Samsung,QLED-55,37,64567,2388979,Online
+2025-03-23,East India,Reliance,OnePlus,U1S-65,47,35254,1656938,Offline
+2025-03-23,South India,Reliance,Samsung,QLED-55,7,57325,401275,Online
+2025-03-23,South India,Vijay Sales,LG,OLED-65,13,56709,737217,Online
+2025-03-24,West India,Reliance,LG,NanoCell-50,32,53353,1707296,Online
+2025-03-24,East India,Vijay Sales,OnePlus,Q1-55,15,39209,588135,Offline
+2025-03-24,North India,Vijay Sales,Sony,Bravia-65,22,84830,1866260,Offline
+2025-03-24,North India,Amazon,Samsung,UHD-65,26,62907,1635582,Online
+2025-03-24,West India,Croma,Xiaomi,MiTV-43,55,31932,1756260,Offline
+2025-03-24,North India,Vijay Sales,LG,NanoCell-50,41,57763,2368283,Online
+2025-03-24,South India,Amazon,Xiaomi,MiTV-43,27,27812,750924,Online
+2025-03-24,East India,Reliance,OnePlus,Q1-55,14,33761,472654,Online
+2025-03-24,East India,Croma,OnePlus,U1S-65,50,40357,2017850,Offline
+2025-03-24,East India,Flipkart,OnePlus,Q1-55,57,38320,2184240,Offline
+2025-03-24,North India,Reliance,Samsung,NeoQLED-75,20,51136,1022720,Offline
+2025-03-24,North India,Flipkart,OnePlus,Q1-55,13,42445,551785,Online
+2025-03-24,West India,Reliance,OnePlus,Y1-50,58,42305,2453690,Online
+2025-03-24,West India,Croma,OnePlus,Y1-50,16,36576,585216,Online
+2025-03-25,West India,Flipkart,Sony,Bravia-55,12,66368,796416,Offline
+2025-03-25,East India,Amazon,Sony,Bravia-65,52,64251,3341052,Online
+2025-03-25,West India,Vijay Sales,Xiaomi,MiTV-43,27,24888,671976,Online
+2025-03-25,North India,Amazon,Sony,Bravia-55,27,56641,1529307,Online
+2025-03-25,South India,Flipkart,Samsung,UHD-65,5,55199,275995,Offline
+2025-03-25,East India,Amazon,Xiaomi,MiTV-43,39,30752,1199328,Online
+2025-03-25,South India,Amazon,Xiaomi,MiTV-43,27,24667,666009,Online
+2025-03-25,West India,Flipkart,LG,OLED-55,15,57419,861285,Offline
+2025-03-25,West India,Croma,LG,OLED-65,37,47191,1746067,Online
+2025-03-25,South India,Amazon,OnePlus,Y1-50,54,44565,2406510,Online
+2025-03-25,West India,Flipkart,LG,OLED-65,36,56236,2024496,Online
+2025-03-25,South India,Amazon,Samsung,UHD-65,49,61210,2999290,Online
+2025-03-25,South India,Vijay Sales,Sony,Bravia-65,12,76298,915576,Online
+2025-03-25,West India,Reliance,OnePlus,Y1-50,10,35041,350410,Online
+2025-03-26,East India,Flipkart,Xiaomi,MiTV-43,37,21803,806711,Offline
+2025-03-26,East India,Amazon,Xiaomi,MiTV-43,25,20008,500200,Offline
+2025-03-26,South India,Amazon,Xiaomi,MiTV-55,43,24133,1037719,Offline
+2025-03-26,East India,Amazon,Samsung,QLED-55,47,45895,2157065,Offline
+2025-03-26,East India,Croma,LG,OLED-55,42,46970,1972740,Online
+2025-03-26,North India,Vijay Sales,Sony,Bravia-65,50,56464,2823200,Offline
+2025-03-26,West India,Croma,OnePlus,Q1-55,14,43038,602532,Offline
+2025-03-26,East India,Amazon,Xiaomi,RedmiTV-50,50,27910,1395500,Online
+2025-03-26,South India,Vijay Sales,LG,NanoCell-50,13,43984,571792,Offline
+2025-03-26,West India,Vijay Sales,OnePlus,Y1-50,15,37787,566805,Offline
+2025-03-26,East India,Croma,Sony,Bravia-65,15,88804,1332060,Offline
+2025-03-27,East India,Croma,LG,NanoCell-50,22,54675,1202850,Online
+2025-03-27,East India,Reliance,Sony,Bravia-55,13,53376,693888,Online
+2025-03-27,North India,Amazon,OnePlus,U1S-65,25,29378,734450,Offline
+2025-03-27,East India,Amazon,Samsung,NeoQLED-75,57,45682,2603874,Online
+2025-03-27,East India,Reliance,OnePlus,Q1-55,60,44803,2688180,Online
+2025-03-27,West India,Croma,LG,OLED-65,18,69232,1246176,Offline
+2025-03-27,South India,Flipkart,Samsung,UHD-65,16,75106,1201696,Offline
+2025-03-27,South India,Amazon,Samsung,UHD-65,15,56647,849705,Online
+2025-03-27,West India,Croma,Xiaomi,RedmiTV-50,30,31907,957210,Online
+2025-03-27,West India,Flipkart,Samsung,QLED-55,57,45888,2615616,Offline
+2025-03-27,South India,Vijay Sales,Samsung,QLED-55,55,51969,2858295,Online
+2025-03-27,South India,Flipkart,OnePlus,U1S-65,57,30063,1713591,Online
+2025-03-28,East India,Vijay Sales,Samsung,QLED-55,57,47918,2731326,Offline
+2025-03-28,South India,Reliance,Sony,Bravia-65,19,75256,1429864,Online
+2025-03-28,West India,Reliance,Xiaomi,MiTV-43,12,25854,310248,Offline
+2025-03-28,North India,Amazon,Samsung,QLED-55,43,54902,2360786,Online
+2025-03-28,West India,Croma,LG,NanoCell-50,57,46810,2668170,Offline
+2025-03-28,East India,Reliance,Samsung,QLED-55,54,54606,2948724,Offline
+2025-03-28,North India,Reliance,OnePlus,U1S-65,51,29179,1488129,Online
+2025-03-28,West India,Amazon,LG,OLED-65,32,61853,1979296,Offline
+2025-03-29,West India,Vijay Sales,OnePlus,U1S-65,39,38822,1514058,Online
+2025-03-29,North India,Croma,LG,OLED-55,18,71059,1279062,Online
+2025-03-29,East India,Amazon,Sony,Bravia-55,34,86143,2928862,Online
+2025-03-29,North India,Croma,Samsung,NeoQLED-75,50,54376,2718800,Offline
+2025-03-29,North India,Reliance,OnePlus,Y1-50,35,29629,1037015,Online
+2025-03-29,South India,Reliance,Samsung,NeoQLED-75,58,72295,4193110,Offline
+2025-03-29,West India,Flipkart,LG,OLED-65,55,47291,2601005,Online
+2025-03-29,South India,Vijay Sales,Sony,Bravia-65,30,79772,2393160,Offline
+2025-03-29,South India,Flipkart,Sony,Bravia-55,10,74743,747430,Offline
+2025-03-29,North India,Croma,Xiaomi,MiTV-43,57,25131,1432467,Offline
+2025-03-29,South India,Reliance,LG,NanoCell-50,32,47104,1507328,Offline
+2025-03-29,East India,Reliance,Sony,Bravia-55,15,54280,814200,Offline
+2025-03-29,South India,Vijay Sales,Sony,X90K-75,7,67640,473480,Online
+2025-03-29,West India,Reliance,Samsung,UHD-65,10,65224,652240,Offline
+2025-03-30,East India,Flipkart,LG,OLED-55,49,66691,3267859,Online
+2025-03-30,South India,Reliance,OnePlus,U1S-65,35,40175,1406125,Online
+2025-03-30,North India,Croma,Sony,X90K-75,46,60554,2785484,Offline
+2025-03-30,West India,Croma,LG,OLED-65,28,65403,1831284,Online
+2025-03-30,South India,Vijay Sales,Xiaomi,MiTV-43,56,28964,1621984,Offline
+2025-03-30,North India,Flipkart,LG,OLED-55,23,58357,1342211,Offline
+2025-03-30,North India,Reliance,Sony,X90K-75,54,66904,3612816,Online
+2025-03-30,North India,Vijay Sales,Xiaomi,MiTV-43,28,34041,953148,Offline
+2025-03-30,East India,Vijay Sales,OnePlus,U1S-65,28,33612,941136,Online
+2025-03-30,North India,Croma,OnePlus,Y1-50,14,43682,611548,Offline
+2025-03-30,North India,Croma,Xiaomi,MiTV-55,47,27675,1300725,Offline
+2025-03-31,North India,Croma,Samsung,UHD-65,54,73384,3962736,Offline
+2025-03-31,East India,Vijay Sales,Xiaomi,MiTV-43,49,27447,1344903,Online
+2025-03-31,West India,Croma,Sony,Bravia-55,41,89392,3665072,Offline
+2025-03-31,West India,Croma,Samsung,QLED-55,60,46503,2790180,Online
+2025-03-31,South India,Reliance,LG,OLED-65,10,67506,675060,Offline
+2025-03-31,South India,Reliance,Samsung,UHD-65,26,64457,1675882,Offline
+2025-03-31,West India,Vijay Sales,Sony,X90K-75,32,87376,2796032,Online
+2025-03-31,North India,Vijay Sales,OnePlus,Y1-50,25,40029,1000725,Online
+2025-03-31,West India,Amazon,Samsung,NeoQLED-75,31,62223,1928913,Offline
